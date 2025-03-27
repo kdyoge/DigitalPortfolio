@@ -95,7 +95,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="e89371ab-8c0c-4271-b3c1-059da61e5324.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="profile.jpeg" alt="Your Profile Picture" class="profile-picture">
             <h1>Yogeswari</h1>
             <p>Web Developer</p>                                          
         </div>
